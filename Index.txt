@@ -1,1 +1,5 @@
 These methods both work, but I think we can do better. One of TypeScript’s strengths is that it puts potential problems in our face and forces us to confront them. The error we get when we try to use RadioGroupItem outside of its context provider crashes the app, but it isn’t very explicit about what exactly we did wrong. We can instead write a custom hook that throws our own error to give other developers a clearer path to quickly fixing the underlying bug.
+
+Apples
+Oranges
+Banannas
